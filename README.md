@@ -52,7 +52,7 @@ I've love everything related computer & technology. Aspiring front-end web devel
 </br>
 
 <!-- SOCIAL LINKS -->  
-### Connect With Me 🤝🤝
+### 🤝 Connect With Me
 [<img src="https://img.shields.io/badge/AATIFSOHEL-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aatifsohel/)
 [<img src = "https://img.shields.io/badge/AatifSohel-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/aatifsohel)
 [<img src = "https://img.shields.io/badge/AatifSohel-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/aatifsohel/)
