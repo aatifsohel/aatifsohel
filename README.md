@@ -51,6 +51,17 @@ I've love everything related computer & technology. Aspiring front-end web devel
 - ⚡ Fun fact: I love to play video games 🎮
 </br>
 
+<!-- SOCIAL LINKS -->  
+### Connect With Me 🤝🤝
+[<img src="https://img.shields.io/badge/AATIFSOHEL-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aatifsohel/)
+[<img src = "https://img.shields.io/badge/AatifSohel-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/aatifsohel)
+[<img src = "https://img.shields.io/badge/AatifSohel-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/aatifsohel/)
+[<img src = "https://img.shields.io/badge/AatifSohel-%181717.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5865F2">](https://discord.com/)
+[<img src = "https://img.shields.io/badge/AatifSohel-%181717.svg?&style=for-the-badge&logo=github&logoColor=white&color=161B22">](https://github.com/aatifsohel)
+
+### 🏗 Projects
+<table width="100%"><tr><td align="center"><a href="https://github.com/aatifsohel/project-omnifood">1 - Omnifood</a> </td><td align="center"><a href="https://github.com/aatifsohel/natours-project">2 - Natours</a> </td><td align="center"><a href="https://github.com/aatifsohel/trillo-project">3 - Trillo</a> </td></tr></table>
+
 <!-- STATS -->  
 ### 🚀 Stats 
 <p align="center"> 
@@ -63,10 +74,11 @@ I've love everything related computer & technology. Aspiring front-end web devel
 <!-- LONGEST STREAK -->  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aatifsohel&" alt="aatifsohel_streak"/>
 </p>
+
+<!-- PROFILE VISITS -->  
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aatifsohel" alt="Profile Visits" /></p>
 
-### 🏗 Projects
-<table width="100%"><tr><td align="center"><a href="https://github.com/aatifsohel/project-omnifood">1 - Omnifood</a> </td><td align="center"><a href="https://github.com/aatifsohel/natours-project">2 - Natours</a> </td><td align="center"><a href="https://github.com/aatifsohel/trillo-project">3 - Trillo</a> </td></tr></table>
+
 
 
 <!--
