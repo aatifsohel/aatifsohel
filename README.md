@@ -1,7 +1,7 @@
 
 # Hi👋, I'm Aatif Sohel
 
-I've love everything related computer & technology. Aspiring front-end web developer! Learning & documenting my journey!
+Front-end Web Developer from India. I love everything related computer & technology. Learning new technologies & documenting my web dev journey!
 </br>
 </br>
 
@@ -11,22 +11,25 @@ I've love everything related computer & technology. Aspiring front-end web devel
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 </br>
 
 <!-- TOOLS I USE -->
-
 ## 🛠 Tools I Use
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Brave](https://img.shields.io/badge/-Brave-FB542B?&style=for-the-badge&logo=brave&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-010101.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-327FC7.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Repl.it](https://img.shields.io/badge/Repl.it-0D101E.svg?&style=for-the-badge&logo=Replit&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 </br>
 
 <!-- ABOUT ME -->
@@ -38,9 +41,9 @@ I've love everything related computer & technology. Aspiring front-end web devel
 
 - 👯 I’m looking to collaborate on projects based on **HTML & CSS**
 
-- 👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-161B22.svg?logo=github&logoColor=white)](https://github.com/aatifsohel)
+- 👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-fff.svg?logo=github&logoColor=161B22)](https://github.com/aatifsohel)
 
-- 📝 I write articles on [Hashnode](https://hashnode.com/@aatifsohel).
+- 📝 I write articles on <a href="https://hashnode.com/@aatifsohel"><img width="100px" alt="Hashnode" title="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white"/></a>
 
 - 💬 Ask me about **HTML, CSS, & JS**
 
@@ -48,8 +51,8 @@ I've love everything related computer & technology. Aspiring front-end web devel
 
 - 😄 Pronouns: HE / HIM
 
-- ⚡ Fun fact: I love to play video games 🎮
-</br>
+- ⚡ Fun fact: I love to play video games 🎮 </br>
+
 
 <!-- SOCIAL LINKS -->  
 ### 🤝 Connect With Me
@@ -60,7 +63,7 @@ I've love everything related computer & technology. Aspiring front-end web devel
 [<img src = "https://img.shields.io/badge/AatifSohel-%181717.svg?&style=for-the-badge&logo=github&logoColor=white&color=161B22">](https://github.com/aatifsohel)
 
 ### 🏗 Projects
-<table width="100%"><tr><td align="center"><a href="https://github.com/aatifsohel/project-omnifood">1 - Omnifood</a> </td><td align="center"><a href="https://github.com/aatifsohel/natours-project">2 - Natours</a> </td><td align="center"><a href="https://github.com/aatifsohel/trillo-project">3 - Trillo</a> </td></tr></table>
+<table width="100%"><tr><td align="center"><a href="https://github.com/aatifsohel/project-omnifood">1 - Omnifood</a> </td><td align="center"><a href="https://github.com/aatifsohel/natours-project">2 - Natours</a> </td><td align="center"><a href="https://github.com/aatifsohel/trillo-project">3 - Trillo</a> </td><td align="center"><a href="https://github.com/aatifsohel/guess-my-number">4 - Pig Game</a> </td></tr></table>
 
 <!-- STATS -->  
 ### 🚀 Stats 
