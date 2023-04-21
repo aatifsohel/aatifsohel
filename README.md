@@ -1,7 +1,7 @@
 
 # Hi👋, I'm Aatif Sohel
 
-Front-end Web Developer from India. I love everything related computer & technology. Learning new technologies & documenting my web dev journey!
+Front-end web developer and UI/UX designer from India. I love to design and build beautiful websites. I'm documenting my web development journey as well as discovering new technologies. 
 </br>
 </br>
 
@@ -35,23 +35,24 @@ Front-end Web Developer from India. I love everything related computer & technol
 <!-- ABOUT ME -->
 ### 🙂 About Me
 
-- 🔭 Aspiring **Front-end web development**
+- 🔭 Aspiring **Front-end web developer**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on projects based on **HTML & CSS**
+- 👯 I’m looking to collaborate on projects based on **HTML-CSS and JavaScript**
 
-- 👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-fff.svg?logo=github&logoColor=161B22)](https://github.com/aatifsohel)
+- 👨‍💻 All of my projects are available [here](https://github.com/aatifsohel).
+<!-- - at [![GitHub](https://img.shields.io/badge/GitHub-fff.svg?logo=github&logoColor=161B22)](https://github.com/aatifsohel) -->
 
-- 📝 I write articles on <a href="https://hashnode.com/@aatifsohel"><img width="100px" alt="Hashnode" title="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white"/></a>
+<!-- - 📝 I write articles on <a href="https://hashnode.com/@aatifsohel"><img width="100px" alt="Hashnode" title="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white"/></a> -->
 
-- 💬 Ask me about **HTML, CSS, & JS**
+- 💬 Ask me about **HTML-CSS, JavaScript & UI Design**
 
 - 📫 You can reach me [here](https://twitter.com/AatifSohel).
 
 - 😄 Pronouns: HE / HIM
 
-- ⚡ Fun fact: I love to play video games 🎮 </br>
+- ⚡ Fun fact: When I'm not coding, I'm probably exploring how things function. </br>
 
 
 <!-- SOCIAL LINKS -->  
@@ -63,7 +64,7 @@ Front-end Web Developer from India. I love everything related computer & technol
 [<img src = "https://img.shields.io/badge/AatifSohel-%181717.svg?&style=for-the-badge&logo=github&logoColor=white&color=161B22">](https://github.com/aatifsohel)
 
 ### 🏗 Projects
-<table width="100%"><tr><td align="center"><a href="https://github.com/aatifsohel/project-omnifood">1 - Omnifood</a> </td><td align="center"><a href="https://github.com/aatifsohel/natours-project">2 - Natours</a> </td><td align="center"><a href="https://github.com/aatifsohel/trillo-project">3 - Trillo</a> </td><td align="center"><a href="https://github.com/aatifsohel/guess-my-number">4 - Pig Game</a> </td></tr></table>
+<table width="100%"><tr><td align="center"><a href="https://github.com/aatifsohel/project-bankist-app">1 - Bankist App</a> </td><td align="center"><a href="https://github.com/aatifsohel/project-bankist-website">2 - Bankist Website</a> </td><td align="center"><a href="https://github.com/aatifsohel/natours-project">3 - Natours</a> </td><td align="center"><a href="https://github.com/aatifsohel/project-omnifood">4 - Omnifood</a> </td><td align="center"><a href="https://github.com/aatifsohel/trillo-project">5 - Trillo</a> </td><td align="center"><a href="https://github.com/aatifsohel/guess-my-number">6 - Pig Game</a> </td></tr></table>
 
 <!-- STATS -->  
 ### 🚀 Stats 
